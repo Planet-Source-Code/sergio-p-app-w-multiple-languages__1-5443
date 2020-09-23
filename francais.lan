@@ -1,0 +1,21 @@
+1000 Sélecteur de Langue 
+1001 Préférences Languistiques 
+1002 Langues Disponibles:
+1003 Langue Choisie:
+1004 Exemple:
+1005 &Quitter
+1006 Ceci est un exemple
+1007 &Exemple de Menu
+
+2000 &Menu File
+2001 &Exemple
+2002 &Selection
+2003 Ch&oix
+20021 Ceci est un example
+20032 Deuxieme choix
+
+3000 Bouton ToolBar
+3001 Autre Bouton
+3002 ButtonMenu fr
+30001 ToolTipText Bouton
+30012 ToolTipText autre Bouton
