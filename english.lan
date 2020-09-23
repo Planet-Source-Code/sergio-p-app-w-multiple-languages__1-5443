@@ -1,0 +1,21 @@
+1000 Language Selector 
+1001 Language Preferences 
+1002 Avaibles Languages:
+1003 Selected Language:
+1004 Example:
+1005 &Exit
+1006 This is a Sample
+1007 Show &Menu Sample
+
+2000 &File Menu
+2001 &Sample
+2002 &Selection
+2003 Ch&oice
+20021 This is a sample text
+20032 Second choice
+
+3000 ToolBar Button
+3001 Another Button
+3002 ButtonMenu en
+30001 ToolTipText Button
+30012 ToolTipText another button
